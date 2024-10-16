@@ -1,0 +1,2 @@
+export const fitnessLogo = "https://www.goldsgym.com/assets/dist/img/logo/notext/fullcolor.svg"
+export const backGroundImgMainC = "https://www.24hourfitness.com/content/dam/24-hour-fitness/promo/specials/2024/izero/desktop-hp.webp" 
